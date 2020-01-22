@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetRPI1_23 Pin=U2-13
+Added Pin To Net: NetName=NetRPI1_21 Pin=U2-15
+Added Pin To Net: NetName=NetRPI1_24 Pin=U2-16
+Added Room: Name=Telemetry Hat

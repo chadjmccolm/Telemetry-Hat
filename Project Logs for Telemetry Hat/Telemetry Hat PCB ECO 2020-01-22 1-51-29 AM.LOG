@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=CANL Pin=J1-5
+Added Pin To Net: NetName=CANL Pin=J1-4
+Change Net Name : Old Net Name=NetU?_7 New Net Name=NetU2_7
+Change Net Name : Old Net Name=NetU?_8 New Net Name=NetU2_8
+Added Room: Name=Telemetry Hat

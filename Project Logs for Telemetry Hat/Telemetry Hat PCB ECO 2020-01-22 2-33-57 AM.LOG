@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=F1 Old Footprint=0603 New Footprint=1206
+Change Component Comment : Designator=F1 Old Comment=  507-2151-1-ND  New Comment=
+Added Member To Class: ClassName=Telemetry Hat Member=Component J1 1-776280-1
+Added Room: Name=Telemetry Hat

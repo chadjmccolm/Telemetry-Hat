@@ -1,0 +1,33 @@
+PCAD Importer Log
+Project : 1-776280-1.LibPkg
+
+Section : C:\Users\Chad McColm\Desktop\Telemetry Hat\1-776280-1.lia
+    Section : PCB Library - 1-776280-1.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 138
+            Warning - 1 : Skipping Token isVisible On Line 156
+            Warning - 1 : Skipping Token isVisible On Line 173
+            Warning - 1 : Skipping Token 1-776280-1 On Line 177
+            Warning - 1 : Skipping Token attachedSymbol On Line 287
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 1-776280-1.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token multiLayer On Line 107
+            Warning - 1 : Skipping Token layerContents On Line 119
+            Warning - 1 : Skipping Token layerContents On Line 129
+            Warning - 1 : Skipping Token layerContents On Line 141
+            Warning - 1 : Skipping Token layerContents On Line 158
+        EndSection
+
+        Section : Generating SCH Library - 1-776280-1.SchLib
+        EndSection
+    EndSection
+EndSection

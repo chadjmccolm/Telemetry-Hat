@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=NetD2_2 New Net Name=TXCAN
+Change Net Name : Old Net Name=NetD3_2 New Net Name=RXCAN
+Added Member To Class: ClassName=Telemetry Hat Member=Component J1 1-776280-1
+Added Room: Name=Telemetry Hat
