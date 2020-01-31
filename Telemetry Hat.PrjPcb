@@ -72,6 +72,23 @@ GenerateClassCluster=0
 DocumentUniqueId=TRQUWMWT
 
 [Document3]
+DocumentPath=Imported 1-776280-1.lia\1-776280-1.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RTVYKDQL
+
+[Document4]
 DocumentPath=lib\Telemetry Hat.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ULCRYWGC
 
-[Document4]
+[Document5]
 DocumentPath=lib\Telemetry Hat.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -104,6 +121,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VRSFBUOT
+
+[Document6]
+DocumentPath=Imported 1-776280-1.lia\1-776280-1.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XHQCBEKP
 
 [ProjectVariant1]
 UniqueID=3CD8D250-5BB5-4ABF-BFA2-2576335AD28E
