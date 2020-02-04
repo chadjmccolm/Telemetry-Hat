@@ -1,10 +1,14 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\Hybrid\Desktop\Chad\Telemetry-Hat-master\Telemetry-Hat-master\Telemetry Hat.PcbDoc
-Date     : 31/01/2020
-Time     : 6:18:02 PM
+PCB File : C:\Users\Chad McColm\Documents\UVic\Hybrid\Telemetry-Hat\Telemetry Hat.PcbDoc
+Date     : 2020-02-04
+Time     : 12:34:20 AM
 
 WARNING: Zero hole size multi-layer pad(s) detected
-   Pad F1-1(3041.339mil,-2519.685mil) on Multi-Layer on Net +12V
+   Pad C3-1(1399.6mil,-1514.952mil) on Multi-Layer on Net +5V
+   Pad C3-2(1399.6mil,-1634.952mil) on Multi-Layer on Net GND
+   Pad C4-1(2322.054mil,-1648.158mil) on Multi-Layer on Net GND
+   Pad C4-2(2322.054mil,-1768.158mil) on Multi-Layer on Net +5V
+   Pad F1-1(3041.339mil,-2519.685mil) on Multi-Layer on Net NetD0_2
    Pad F1-2(3041.339mil,-2399.685mil) on Multi-Layer on Net NetC1_1
    Pad C1-1(2805.118mil,-2007.874mil) on Multi-Layer on Net NetC1_1
    Pad C1-2(2685.118mil,-2007.874mil) on Multi-Layer on Net GND
@@ -45,7 +49,9 @@ Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
    Violation between Minimum Solder Mask Sliver Constraint: (8.286mil < 10mil) Between Pad U1-1(2214.567mil,-1637.598mil) on Top Layer And Via (2146.968mil,-1604.594mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [8.286mil]
-Rule Violations :1
+   Violation between Minimum Solder Mask Sliver Constraint: (9.52mil < 10mil) Between Pad U1-2(2214.567mil,-1687.598mil) on Top Layer And Via (2214.567mil,-1737.598mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.52mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (9.52mil < 10mil) Between Pad U1-4(2214.567mil,-1787.598mil) on Top Layer And Via (2214.567mil,-1737.598mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [9.52mil]
+Rule Violations :3
 
 Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
    Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad D1-1(2143.701mil,-2239.323mil) on Top Layer And Track (2096.457mil,-2191.095mil)(2234.252mil,-2191.095mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
@@ -114,6 +120,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=3000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 63
+Violations Detected : 65
 Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01

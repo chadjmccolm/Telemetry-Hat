@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=+12V Pin=F1-1
+Added Component: Designator=D1(STM-SMA-2_B_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance @ Vr, F"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "DiscreteSemiconductorProducts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Average Rectified (Io)"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Reverse Leakage @ Vr"; Value = "1.5µA@150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/61/59/17/ff/5b/58/43/45/CD00003322.pdf/files/CD00003322.pdf/jcr:content/translations/en.CD00003322.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 6, 09/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Diodes,Rectifiers-Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "SchottkyDiode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature - Junction"; Value = "175°C(Max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "497-2467-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Related Documents"; Value = "STPS2150ViewAllSpecifications"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "DO-214AC,SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 4.275 x 2.575 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Digi-Reel®  "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Recovery Time (trr)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "FastRecovery=200mA(Io)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "SMA(DO-214AC)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - DC Reverse (Vr) (Max)"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf) (Max) @ If"; Value = "820mV@2A"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12V Pin=D1-1
+Added Member To Class: ClassName=Telemetry Hat Member=Component D1 Green
+Added Room: Name=Telemetry Hat

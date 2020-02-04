@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=D1 NewDesignator=D0
+Added Pin To Net: NetName=NetD0_2 Pin=D0-2
+Added Pin To Net: NetName=NetD0_2 Pin=F1-1
+Added Net: Name=NetD0_2
+Added Member To Class: ClassName=Telemetry Hat Member=Component D0 STPS2150A
+Added Room: Name=Telemetry Hat
